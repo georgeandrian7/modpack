@@ -1,9 +1,9 @@
- "$type":
- "title":
+ "$type": "ModListMetadata, Wabbajack.Lib",
+ "title": "Modern Fantasy World"
  "description": 
     "author": 
     "maintainers": [
-      "github
+      "github/georgeandrian7-GitHub
     ],
     "game": "skyrimspecialedition",
     "tags": [
